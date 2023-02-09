@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
+    background-position: center;
+    background-size:cover;
+    height:105vh;
+
+}
+.navbar{
+    width:50px;
+    height: 40px;
+    margin: auto;
+}
+.icon{
+    width:80px;
+    float: left;
+    height: 65px;
+}
+.logo{
+    color:darkgreen;
+    font-size: 40px;
+    font-family: Arial;
+    padding-left: 30px;
+    float: left;
+    padding-top: 12px;
+}
+.icon{
+    width:80px;
+    float: left;
+    height: 50px;
+}
+.logo{
+    color:darkgreen;
+    font-size: 40px;
+    font-variant-position: super;
+    padding-left: 30;
+    padding-top: 12;
+}
